@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **bijon176193@gmail.com**
 
+
+Profile Visited:
+
+
+![Visitor Count](https://profile-counter.glitch.me/{BijonDurjoy}/count.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bijon_durjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bijon_durjoy" height="30" width="40" /></a>
