@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bijon_durjoy" target="blank"><img src="https://img.shields.io/twitter/follow/bijon_durjoy?logo=twitter&style=for-the-badge" alt="bijon_durjoy" /></a> </p>
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **C++ and JAVA**
 
 - 📫 How to reach me **bijon176193@gmail.com**
 
