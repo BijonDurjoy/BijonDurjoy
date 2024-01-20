@@ -19,6 +19,13 @@ Profile Visited:
 
 ![Visitor Count](https://profile-counter.glitch.me/{BijonDurjoy}/count.svg)
 
+
+<h3 align="left">📈 Github Overview</h3>
+<!-- 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shawon-majid&count_private=true&show_icons=true&&theme=midnight-purple&include_all_commits=true%22%20&hide_border=true) -->
+
+![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BijonDurjoy&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bijon_durjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bijon_durjoy" height="30" width="40" /></a>
