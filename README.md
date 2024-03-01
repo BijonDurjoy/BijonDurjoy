@@ -47,11 +47,17 @@
 ### 📈 Github Overview
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shawon-majid&count_private=true&show_icons=true&&theme=midnight-purple&include_all_commits=true%22%20&hide_border=true) -->
 
-![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BijonDurjoy&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
+  <!-- Github Profile Summary Cards -->
+<p align="center">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BijonDurjoy&theme=moltack"  />
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BijonDurjoy&theme=moltack"  />
+</p>
 
+  <!-- Github Profile Summary Cards -->
+
+<p align = "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijonDurjoy&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
+ 
 <p align="left">
   <a href="https://github.com/BijonDurjoy">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BijonDurjoy&theme=transparent" />
