@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++ and JAVA**
+- 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **bijon176193@gmail.com**
 
