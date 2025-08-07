@@ -53,7 +53,7 @@
 <p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BijonDurjoy&theme=moltack"  />
  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BijonDurjoy&theme=moltack"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=BijonDurjoy" >
+  
 </p>
 
   <!-- Github Profile Summary Cards -->
