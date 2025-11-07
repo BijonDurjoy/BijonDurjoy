@@ -8,16 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/bijon_durjoy" target="blank"><img src="https://img.shields.io/twitter/follow/bijon_durjoy?logo=twitter&style=for-the-badge" alt="bijon_durjoy" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Software Testing**
 
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **bijon176193@gmail.com**
 
-
- Profile Visited:
-
-![Visitor Count](https://profile-counter.glitch.me/{BijonDurjoy}/count.svg)
 
 ### Connect with me:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
