@@ -96,3 +96,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BijonDurjoy&theme=transparent" />
   </a>
 </p>
+
+![Snake animation](https://github.com/BijonDurjoy/BijonDurjoy/blob/output/github-contribution-grid-snake.svg)
+
