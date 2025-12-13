@@ -73,7 +73,26 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BijonDurjoy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+ <!-- Github Profile Summary Cards -->
+<p align="center">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BijonDurjoy&theme=moltack"  />
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BijonDurjoy&theme=moltack"  />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BijonDurjoy&show_icons=true&locale=en&layout=compact" alt="BijonDurjoy" /></p>
+  <!-- Github Profile Summary Cards -->
 
-<p>&nbsp;<img align="Center" src="https://github-readme-stats.vercel.app/api?username=BijonDurjoy&show_icons=true&locale=en" alt="BijonDurjoy" /></p>
+<p align = "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijonDurjoy&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
+ 
+<p align="left">
+  <a href="https://github.com/BijonDurjoy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BijonDurjoy&theme=transparent" />
+  </a>
+
+  <a href="https://github.com/BijonDurjoy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BijonDurjoy&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+ 
+  <a href="https://github.com/BijonDurjoy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BijonDurjoy&theme=transparent" />
+  </a>
+</p>
