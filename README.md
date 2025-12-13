@@ -96,6 +96,21 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BijonDurjoy&theme=transparent" />
   </a>
 </p>
+---
 
-![Snake animation](https://github.com/BijonDurjoy/BijonDurjoy/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/BijonDurjoy/BijonDurjoy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github.com/BijonDurjoy/BijonDurjoy/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation"
+      src="https://github.com/BijonDurjoy/BijonDurjoy/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+ 
 
