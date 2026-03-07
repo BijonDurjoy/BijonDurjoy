@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and SQA**
 
 - 📫 How to reach me : **bijon176193@gmail.com**
 
